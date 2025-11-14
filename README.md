@@ -30,7 +30,7 @@ Aplicación de escritorio en **Python (Tkinter)** que permite comprimir archivos
   pip install pydrive2 python-dotenv
   ```
   - **Archivo `client_secrets.json`** (OAuth de escritorio) en la misma carpeta que el script.
-## 🔧 Configuración de Google Drive
+## Configuración de Google Drive
 
 1. **En [Google Cloud Console](https://console.cloud.google.com/):**
    - Habilitar la **Google Drive API**.
